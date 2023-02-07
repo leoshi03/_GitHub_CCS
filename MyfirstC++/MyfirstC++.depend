@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1592976003 source:d:\leoshi\code\myfirstc++\main.cpp
+	<iostream>
+	<math.h>
+	"mylib.h"
+
+1592647787 source:d:\leoshi\code\myfirstc++\mylib.cpp
+	<iostream>
+	"mylib.h"
+
+1592652707 d:\leoshi\code\myfirstc++\mylib.h
+
+1569836987 source:d:\leoshi\code\myfirstc++\mylib.c
+
